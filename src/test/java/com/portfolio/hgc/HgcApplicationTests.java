@@ -1,10 +1,10 @@
-package com.portfolio.monja;
+package com.portfolio.hgc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MonjaApplicationTests {
+class HgcApplicationTests {
 
 	@Test
 	void contextLoads() {
